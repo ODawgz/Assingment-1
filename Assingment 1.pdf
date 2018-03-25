@@ -1,0 +1,112 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>My Student Website</title>
+  <meta name="description" content="Welcome to Owen">
+  <meta name="author" content="s3492611">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+<!-- Wrap -->
+	<div id="wrapper">
+		<!-- Head -->
+			<header id="myHeader">  
+			  <h1>Welcome to my Profile</h1>
+			</header>
+			  
+			  <ul>
+				<li>Change the title for one...</li>
+				<li>Add some elements and images!</li>
+			  </ul>
+
+		<!-- Main -->
+		<div id="main">
+		<!-- Image -->
+		<img src="img/Owen.jpg">
+		<!-- Intro Section-->
+			<section id="intro">
+			<header class="sectionHeading">
+				<h2>Introduction</h2>
+			</header>
+			<p>I'm Owen and I'm a cool dude.</p>
+			
+			
+			
+			</section>
+			
+		<!-- Background Section -->
+			<section id="background">
+			<header class="sectionHeading">
+				<h2>Personal Information</h2>
+			</header>
+			
+				<section>
+					<h3>My Life</h3>
+					<p>I am a 22 year old male from Melbourne, I work at a bar as a supervisor and am studying a bachelor of IT at RMIT.
+					I still live at home because paying rent is for chumps. </p>
+				</section>
+				<section>
+					<h3>Interest in IT</h3>
+					<p>I have acomplished a advanced diploma of electriconic and cummunications enginnering. 
+					It was during this time that I realized i hated building circuit boards and realized that if I were to get a job in this field I would basically be working on a glorified assembly line. 
+					Which does not sound appealing to me at all. However it did lead me to coding which i do enjoy, so the logical step would be IT. 
+					This made so much sense to me as I use a computer every day for enjoyment and have always had a interest to learn how it works and how to get it to work.
+					I play a lot of games on my PC such as League and WoW, I have always had a passion for story driven games. 
+					I chose to study at RMIT because i was previously studying the advance diploma here and i like the campus.
+					From this course I would like to be hireable by any company as knowledge in IT is becoming more more crucial for most buissnesses. I would like to be able to be given a problem in a computer system and be able to have the knowlege to find it and fix it.</br>
+				</section>
+				
+			
+			</section>  
+		<!-- Ideal Job Section -->
+			<section id="job">
+			<header class="sectionHeading">
+				<h2>Ideal Job</h2>
+			</header>
+			<!-- Image -->
+			<img src="img/Screenshot (1).jpg">			  
+			<p>https://careers.blizzard.com/en-gb/openings/oP8Y6fwL</p>
+			<p>This job is working for Blizzard on World of Warcraft in a creative and hands on enviroment. It ivolves coming uo with creative ideas for the game and implementing them through programming. This ia anamazing job because I would be working on the game I play the most and have been playing for over 10 years. As well as helping build it and bringing the perspective of someone who has played it for so long with ideas on how to improve it.
+			To qualify for this job I need to have at least 3 years of game design, I would of had to worked on one game that has been completed and put on the market. A background with game development. Be able to work with teams and directors. Effeciency with work on projects and issue with projects. People skills and the ability to manage them. Able to keep up with wherethe projects is going and selfmotivation to understand concepts.
+			Right now I do not have any skills required to apply for this position except for people skills and working together on projects. However I can start working on these skills with looking into game development and starting small on projects aswell as using editor tools to change and alter current games. I can select game development for the modules in the course to start me off with a proper education on it and when I finish this course I can start a looking for lower base gaming job maybe for a app company and start working on a portfolio. </p>
+			</section>
+		
+		<!-- Background Section -->
+			<section id="profile">
+			<header class="sectionHeading">
+				<h2>Personal Profile</h2>
+			</header>
+			<p>The results of Myers-Briggs test says I am a CampaignerThe Campaigner personality is a true free spirit. They are often the life of the party, but unlike types in the Explorer Role group, Campaigners are less interested in the sheer excitement and pleasure of the moment than they are in enjoying the social and emotional connections they make with others. Charming, independent, energetic and compassionate, the 7% of the population that they comprise can certainly be felt in any crowd. </p>
+			<p>Education Planner.org learning style test said I am a visual learner "If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning."</p>
+			<p>The big five facotrs test said i am extroverted, emotionaly stable, agreeable, conscientious and imaginative.</p>
+			<p>What these test tell me about myself is that I am outgoing, comfident in voicing my ideas and opinions, I like to be around people and talk to them, and I learn visually. With this in mind i would work well in a team enviroment. However when forming a team I should look for people who are detail orientated and think critically. As well as people who also like to communicate with others. </p>
+
+		<!-- Project ideas -->
+			<section id="project">
+			<header class"sectionHeading">
+				<h2> Project Ideas </h2>
+			</header>
+			<p>A mobile app that recognises a senior member of your work that has the power to tell you when to come in and with this information the app is able to change or set any alarms for those who, for example need to wake up early or even those that need to come in even earlier. This app will also take into account how long you have stated takes you to wake up and arrive at work and also if an earlier alarm is set by the app how close you want to cut with sleep/time to arrive at work.<p>
+			<p>As a bartender, early mornings are a nightmare as late nights are a occupational must and any chance to get more sleep is not something to waste. For those that have shift work, I’m sure have all had an instance where they were called in early or to come later, and for those this miss the messages telling them to do so would love it if they could get some extra sleep. So working with this potential problem and with those who also suffer from it would greatly appreciate something to help us rest or help us not be late to work.</p>
+			<p>Picture this: Earlier that night you set an alarm for 6:30AM for you have to get up and be at work at 7:30AM. This is not a usual wake up time for you and you know that you will feel so tired you’re your alarm goes off and no amount of coffee will change that. You accept your fate and retire to bed at an earlier bed time than usual let’s say 9:30PM. It is now 11:00PM you are fast asleep but your smartphone goes off, a notification comes up: a message from your boss saying you don’t need to get there early tomorrow you can come in at your normal time of 8:30. But woe is you, the alarm is set for 6:30. Now some people would not mind waking up seeing their phone, reading the message and falling back to sleep. But most of you would rather have another hour of uninterrupted sleep, wouldn’t you? This is my idea, an application on your phone that has access to your notifications and clock apps, this app recognise your boss as your boss due to you setting him as a one in the settings, it will look at the messag				e and recognise that it is saying that you can sleep in. It will then change the alarm on your clock app to a suggested time that it configures as you have input into the app how long you need to get ready and arrive at work on time. You arrive at work at the time given by your boss refreshed with an extra hours sleep, a sunny disposition and a appreciation for the app on your phone that gave you this blessing. Issues with this product could be your boss would try to call you, this could be remedied by letting them know only to message you through your allocated messenger service. And of course I'm sure only select messenger services would allow their apps to connect to the app. If your boss does ask you to come in early the app will look at your settings as work out how early you would like to wake up and take into account what you have stated to be your early/wake up setting. This setting basically is what the user says to do if an alarm has to be changed to an earlier time , for example: if you receive 			a message saying come in 2 hours earlier such as 5:30AM it the user would have said that they want as much sleep as possible, so if it takes you 30 minutes to get to work it will set an alarm for 4:50AM giving you 10 minutes to get ready and 30 to get to work. It will also take into account if the user like to use the snooze button and set the alarm back 10 extra minutes.</p>
+			<p>To build this app you would need a computer capable of running an app building program. Several app building programs would be acceptable such as Appery.io and Mobile Roadie. However these programs did not give any information on whether they would be able to interact with other apps. This could be a potential problem as it is crucial that it does. Unfortunately my knowledge of build mobile apps is very small at the moment and I do not know how to build an app from scratch.</p>
+
+			<p>The skill to build this app will require a knowledge of app development and proficiency in Javascript. There are plenty of app building companies that this idea could be outsourced to as they would have competent development teams. There is software on the internet that one can download to create it themselves however they do ask for a fee to use their software. Which could be problematic if you are low on funds for the project.</p>
+
+			<p>If the project is successful then those that use this app will have a measure in place to secure them more sleep or get to work on time. This is not a major issue in our world nor will it lead to innovation in the industry but it is a little thing that can make someone’s day better which is enough for me. If this project does take off it would be a great addition to a portfolio as it shows outside of the box thinking, it is relatable to people and it provides a comfort to those who’s shift times are subject to change.</p>
+</p>
+					
+<section>
+	
+	<!-- Footer -->
+		<footer>
+		  <p>And that's it... could put ownership details down here in the footer. Maybe contact details. etc..<p>
+		  <a href="../index.html">Back Home?</a>
+		</footer>  
+	</div>
+</body>
+</html>
